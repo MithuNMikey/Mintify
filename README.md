@@ -7,16 +7,27 @@ with NFTs on the blockchain
 
 Key Features:
 🖌️ Mint NFTs 
+
 🏷️ List for Sale 
+
 💸 Buy & Sell 
+
 🧾 Royalties Support 
+
 🌐 Multi-Chain Support 
+
 📦 IPFS Storage – Decentralized & permanent file hosting
+
 👛 Wallet Integration 
+
 📊 Analytics Dashboard 
+
 🧠 Smart Contract Based 
+
 ✨ Featured Drops
+
 🔍 Search & Filter
+
 📜 Ownership History 
 
 ScreenShots:
